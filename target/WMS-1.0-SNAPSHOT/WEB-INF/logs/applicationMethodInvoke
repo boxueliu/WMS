@@ -1,0 +1,12 @@
+[05-19-11-06-42][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：-1-1
+ [05-19-11-06-49][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：-1-1
+ [05-19-11-06-53][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：-1-1
+ [05-19-11-06-56][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：-105
+ [05-19-15-19-24][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：-1-1
+ [05-19-16-16-43][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByName	args：05
+ [05-19-16-16-56][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：-1-1
+ [05-19-16-17-10][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：-105
+ [05-19-16-19-12][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：-1-1
+ [05-19-16-19-17][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：-1-1
+ [05-19-16-21-30][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：-1-1
+ 

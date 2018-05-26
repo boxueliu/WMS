@@ -1,0 +1,16 @@
+[05-14-16-59-41][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：123
+ [05-14-21-04-40][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1019
+ [05-14-21-04-51][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1019
+ [05-14-21-05-03][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1019
+ [05-14-21-42-39][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1019
+ [05-14-21-52-00][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1000
+ [05-14-21-52-00][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：1000
+ [05-14-21-52-12][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1000
+ [05-14-21-52-12][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：1000
+ [05-14-21-52-28][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1000
+ [05-14-21-52-28][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：1000
+ [05-14-21-54-11][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1000
+ [05-14-21-54-11][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：1000
+ [05-14-21-54-35][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1000
+ [05-14-21-54-35][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：1000
+ 
